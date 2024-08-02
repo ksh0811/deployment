@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: ksh0811/fast:15
+        image: ksh0811/fast:17
